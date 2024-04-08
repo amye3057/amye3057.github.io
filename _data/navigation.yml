@@ -20,6 +20,8 @@ docs:
       url: /categories/android_studio/
     - title: "Unity(C#)"
       url: /categories/unity/
+    - title: "Github"
+      url: /categories/github/
 - title: "etc"
   children:
     - title: "TIL"
