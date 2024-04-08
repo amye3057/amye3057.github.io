@@ -115,8 +115,8 @@ author:
       # url: "mailto:amye3057@gmail.com" 여기를 건드렸다가 오류남
     - label: "naver blog (일상)"
       icon: "fab fa-blogger"
-      # url: "https://blog.naver.com/amye3057"
-    - label: "my Youtube Channel (안빈낙또)"
+      url: "https://blog.naver.com/amye3057"
+    - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/channel/UCw9VCcqCom2uOsB0OWMB3WA"
     - label: "Twitter"
