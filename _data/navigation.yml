@@ -12,13 +12,15 @@ main:
   #   url: /sitemap/
 
 docs:
-- title: "WEB CODING"
+- title: "Programming"
   children:
-    - title: "HTML"
-      url: /categories/html/
-    - title: "CSS"
-      url: /categories/css/
-- title: "GITHUB"
+    - title: "Algorithm(C)"
+      url: /categories/algorithm/
+    - title: "Android Studio(JAVA)"
+      url: /categories/android_studio/
+    - title: "Unity(C#)"
+      url: /categories/unity/
+- title: "etc"
   children:
-    - title: "GITHUB BLOG"
-      url: /categories/github-blog/
+    - title: "TIL"
+      url: /categories/today_I_learned/
