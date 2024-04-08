@@ -11,14 +11,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  docs:
-- title: "programming"
+docs:
+- title: "WEB CODING"
   children:
-    - title: "Algorithm"
-      url: /categories/Algorithm/
-    - title: "Github"
-      url: /categories/Github/
-#- title: "GITHUB"
-#  children:
-#    - title: "GITHUB BLOG"
-#      url: /categories/github-blog/
+    - title: "HTML"
+      url: /categories/html/
+    - title: "CSS"
+      url: /categories/css/
+- title: "GITHUB"
+  children:
+    - title: "GITHUB BLOG"
+      url: /categories/github-blog/
