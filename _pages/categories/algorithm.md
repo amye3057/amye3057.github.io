@@ -1,7 +1,7 @@
 ---
-title: "HTML"
+title: "algorithm(c++)"
 layout: archive
-permalink: /categories/html/
+permalink: /categories/algorithm/
 author_profile: true
 sidebar_main: false
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 ---
 
 {% assign posts = site.categories.html %}
-HTML
+algorithm(c++)
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
