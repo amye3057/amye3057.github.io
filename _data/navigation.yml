@@ -14,7 +14,7 @@ main:
 docs:
 - title: "Programming"
   children:
-    - title: "Algorithm(C)"
+    - title: "Algorithm(C++)"
       url: /categories/algorithm/
     - title: "Android Studio(JAVA)"
       url: /categories/android_studio/
