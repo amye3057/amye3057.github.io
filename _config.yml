@@ -115,7 +115,7 @@ author:
       # url: "mailto:amye3057@gmail.com" 여기를 건드렸다가 오류남
     - label: "naver blog (일상)"
       icon: "fab fa-blogger"
-      url: "https://blog.naver.com/amye3057/" #여기 왜 오류나지
+      url: "https://blog.naver.com/amye3057/" #블로그 링크를 그대로 넣으니 오류남. /를 마지막에 붙여주니 해결
     - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/channel/UCw9VCcqCom2uOsB0OWMB3WA"
