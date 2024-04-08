@@ -104,16 +104,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "amye"
+  name             : "amye3057"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "모래를 모아서 **사막**을 만들자"
-  location         : "South Korea"
+  location         : 
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Youtube"
+       url: "mailto:amye3057@gmail.com"
+    - label: "my Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/channel/UCw9VCcqCom2uOsB0OWMB3WA"
     - label: "Twitter"
