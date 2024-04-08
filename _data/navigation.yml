@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  docs:
+- title: "Programming"
+  children:
+    - title: "Algorithm"
+      url: /categories/Algorithm/
+    - title: "Github"
+      url: /categories/Github/
+#- title: "GITHUB"
+#  children:
+#    - title: "GITHUB BLOG"
+#      url: /categories/github-blog/
