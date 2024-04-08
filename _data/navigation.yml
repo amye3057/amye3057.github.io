@@ -25,4 +25,4 @@ docs:
 - title: "etc"
   children:
     - title: "TIL"
-      url: /categories/today_I_learned/
+      url: /categories/til/
