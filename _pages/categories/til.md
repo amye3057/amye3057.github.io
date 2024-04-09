@@ -8,6 +8,6 @@ sidebar:
   nav: "docs"
 ---
 
-{% assign posts = site.categories.html %}
+{% assign posts = site.categories.til %}
 Today I Learned
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
