@@ -8,6 +8,6 @@ sidebar:
   nav: "docs"
 ---
 
-{% assign posts = site.categories.github %}
+{% assign posts = site.categories.html %}
 깃허브에 대해서 알아보자.
-{% for post in posts %} {% include archive-single.github type=page.entries_layout %} {% endfor %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
