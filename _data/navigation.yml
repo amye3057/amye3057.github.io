@@ -10,8 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-search : true #18,19번 줄 추가하면 검색기능 생깄댔는데 여긴가?? 아니면 지우기
-search_full_content : true
 
 docs:
 - title: "Programming"
