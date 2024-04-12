@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "카테고리"
+    url: https://amye3057.github.io/_pages/categories/
   - title: "로그인"
     url: https://amye3057.github.io/github/%EC%8B%A4%ED%97%98%EC%9A%A92/
   # - title: "About"
