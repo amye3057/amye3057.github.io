@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 #search : true #18,19번 줄 추가하면 검색기능 생깄댔는데 여기가 아닌가
 #search_full_content : true
 
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "amye3057 STUDY BLOG &lt;&lt;Sand to Desert&gt;&gt;"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
